@@ -2,7 +2,7 @@
 
 이 프로젝트는 Google Agent Development Kit(ADK)를 활용하여 코딩 테스트 문제를 자동으로 생성, 검증, 해결하고 테스트 케이스까지 만들어주는 AI 에이전트 시스템입니다.
 
-![아키텍처 다이어그램](architecture.png)
+![아키텍처 다이어그램](https://raw.githubusercontent.com/jeyong-shin/adk-codingtest-gen-agent/main/architecture.png)
 
 ## 프로젝트 구조
 
