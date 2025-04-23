@@ -64,7 +64,8 @@
 
 ### 필수 요구사항
 - Python 3.9 이상
-- Google ADK 계정 및 API 키
+- Google API 키
+- OpenAI API 키
 
 ### 설치 단계
 
