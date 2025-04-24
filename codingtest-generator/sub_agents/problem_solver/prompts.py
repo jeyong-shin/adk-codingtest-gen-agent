@@ -26,4 +26,5 @@ def solution([input_name]):
 There should be no explanation or comments in the code.
 The code should be written in a way that it can be directly copied and pasted into a file and run without any modifications.
 The code should be written in a way that it can be easily understood by a human reader.
+Do NOT generate the problem or python code for test cases yourself.
 Any other task than generating solution of the coding test should be deligated to other agents"""
